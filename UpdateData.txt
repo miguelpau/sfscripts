@@ -1,0 +1,2 @@
+Devuelve datos en 2 columnas en formato dd/hh/mm del tiempo transcurrido entre la fecha de publicación y la de modificación (UpdateData1) y el transcurrido entre la última modificación y "hoy", fecha en la que se lanza el script (UpdateData2). 
+
